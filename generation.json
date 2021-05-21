@@ -1,0 +1,4675 @@
+{
+  "name": "generation",
+  "map": {
+    "1": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "2": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "3": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "4": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "5": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "6": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "7": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "8": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "9": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "10": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "11": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "12": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "13": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "14": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "15": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "16": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "17": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "18": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "19_45": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "19_46": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "20_47": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "20_48": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "21": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "22": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "23": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "24": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "25": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "26_49": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "26_50": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "27_51": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "27_52": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "28_53": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "28_54": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "29": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "30": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "31": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "32": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "33": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "34": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "35": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "36": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "37_55": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "37_56": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "38_57": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "38_58": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "39": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "40": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "41": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "42": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "43": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "44": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "45": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "46": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "47": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "48": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "49": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "50_59": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "50_60": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "51_61": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "51_62": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "52_63": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "52_64": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "52_2335": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "53_65": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "53_66": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "54": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "55": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "56": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "57": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "58": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "59": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "60": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "61": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "62": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "63": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "64": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "65": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "66": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "67": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "68": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "69": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "70": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "71": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "72": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "73": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "74_67": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "74_68": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "75_69": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "75_70": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "76_71": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "76_72": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "77_1011": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "77_2336": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "78_1014": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "78_2337": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "79_1017": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "79_2582": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "80_1020": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "80_2583": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "81_": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "82": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "83_1023": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "83_2338": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "84": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "85": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "86": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "87": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "88_73": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "88_74": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "89_75": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "89_76": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "90": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "91": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "92": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "93": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "94": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "95": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "96": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "97": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "98": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "99": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "100": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "101": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "102": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "103_77": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "103_78": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "104": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "105_79": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "105_80": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "106": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "107": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "108": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "109": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "110_706": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "110_944": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "111": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "112": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "113": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "114": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "115": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "116": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "117": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "118": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "119": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "120": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "121": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "122_1080": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "122_2339": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "123": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "124": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "125": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "126": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "127": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "128": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "129": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "130": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "131": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "132": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "133": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "134": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "135": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "136": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "137": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "138": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "139": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "140": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "141": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "142": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "143": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "144": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "145": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "146": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "147": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "148": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "149": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "150": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "151": {
+        "genName": "Kanto",
+        "genNumber": "1",
+        "genRoman": "I"
+    },
+    "152": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "153": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "154": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "155": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "156": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "157": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "158": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "159": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "160": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "161": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "162": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "163": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "164": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "165": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "166": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "167": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "168": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "169": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "170": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "171": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "172": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "173": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "174": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "175": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "176": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "177": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "178": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "179": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "180": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "181": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "182": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "183": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "184": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "185": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "186": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "187": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "188": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "189": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "190": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "191": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "192": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "193": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "194": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "195": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "196": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "197": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "198": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "199_1238": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "199_2584": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "200": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "201": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "202": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "203": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "204": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "205": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "206": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "207": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "208": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "209": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "210": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "211": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "212": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "213": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "214": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "215": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "216": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "217": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "218": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "219": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "220": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "221": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "222_1283": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "222_2340": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "223": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "224": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "225": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "226": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "227": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "228": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "229": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "230": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "231": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "232": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "233": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "234": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "235": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "236": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "237": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "238": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "239": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "240": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "241": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "242": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "243": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "244": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "245": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "246": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "247": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "248": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "249": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "250": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "251": {
+        "genName": "Johto",
+        "genNumber": "2",
+        "genRoman": "II"
+    },
+    "252": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "253": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "254": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "255": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "256": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "257": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "258": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "259": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "260": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "261": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "262": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "263_945": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "263_946": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "264_947": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "264_948": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "265": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "266": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "267": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "268": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "269": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "270": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "271": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "272": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "273": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "274": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "275": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "276": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "277": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "278": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "279": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "280": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "281": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "282": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "283": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "284": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "285": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "286": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "287": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "288": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "289": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "290": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "291": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "292": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "293": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "294": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "295": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "296": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "297": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "298": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "299": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "300": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "301": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "302": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "303": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "304": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "305": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "306": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "307": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "308": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "309": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "310": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "311": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "312": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "313": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "314": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "315": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "316": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "317": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "318": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "319": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "320": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "321": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "322": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "323": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "324": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "325": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "326": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "327": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "328": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "329": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "330": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "331": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "332": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "333": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "334": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "335": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "336": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "337": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "338": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "339": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "340": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "341": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "342": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "343": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "344": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "345": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "346": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "347": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "348": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "349": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "350": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "351": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "352": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "353": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "354": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "355": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "356": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "357": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "358": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "359": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "360": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "361": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "362": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "363": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "364": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "365": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "366": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "367": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "368": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "369": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "370": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "371": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "372": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "373": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "374": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "375": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "376": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "377": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "378": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "379": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "380": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "381": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "382": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "383": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "384": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "385": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "386": {
+        "genName": "Hoenn",
+        "genNumber": "3",
+        "genRoman": "III"
+    },
+    "387": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "388": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "389": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "390": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "391": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "392": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "393": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "394": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "395": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "396": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "397": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "398": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "399": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "400": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "401": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "402": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "403": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "404": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "405": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "406": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "407": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "408": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "409": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "410": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "411": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "412": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "413": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "414": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "415": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "416": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "417": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "418": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "419": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "420": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "421": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "422": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "423": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "424": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "425": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "426": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "427": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "428": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "429": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "430": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "431": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "432": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "433": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "434": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "435": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "436": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "437": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "438": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "439": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "440": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "441": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "442": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "443": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "444": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "445": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "446": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "447": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "448": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "449": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "450": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "451": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "452": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "453": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "454": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "455": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "456": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "457": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "458": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "459": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "460": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "461": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "462": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "463": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "464": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "465": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "466": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "467": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "468": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "469": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "470": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "471": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "472": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "473": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "474": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "475": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "476": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "477": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "478": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "479": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "480": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "481": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "482": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "483": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "484": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "485": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "486": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "487": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "488": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "489": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "490": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "491": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "492": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "493": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "494": {
+        "genName": "Sinnoh",
+        "genNumber": "4",
+        "genRoman": "IV"
+    },
+    "495": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "496": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "497": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "498": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "499": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "500": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "501": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "502": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "503": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "504": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "505": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "506": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "507": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "508": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "509": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "510": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "511": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "512": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "513": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "514": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "515": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "516": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "517": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "518": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "519": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "520": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "521": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "522": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "523": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "524": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "525": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "526": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "527": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "528": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "529": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "530": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "531": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "532": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "533": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "534": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "535": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "536": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "537": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "538": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "539": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "540": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "541": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "542": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "543": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "544": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "545": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "546": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "547": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "548": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "549": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "550": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "551": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "552": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "553": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "554_2063": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "554_2341": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "555_138": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "555_139": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "555_2342": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "555_2343": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "556": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "557": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "558": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "559": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "560": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "561": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "562_2084": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "562_2344": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "563": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "564": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "565": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "566": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "567": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "568": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "569": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "570": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "571": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "572": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "573": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "574": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "575": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "576": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "577": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "578": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "579": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "580": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "581": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "582": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "583": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "584": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "585": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "586": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "587": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "588": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "589": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "590": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "591": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "592": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "593": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "594": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "595": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "596": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "597": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "598": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "599": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "600": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "601": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "602": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "603": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "604": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "605": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "606": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "607": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "608": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "609": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "610": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "611": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "612": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "613": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "614": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "615": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "616": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "617": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "618_2246": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "618_2345": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "619": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "620": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "621": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "622": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "623": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "624": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "625": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "626": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "627": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "628": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "629": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "630": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "631": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "632": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "633": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "634": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "635": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "636": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "637": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "638": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "639": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "640": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "641": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "642": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "643": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "644": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "645": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "646": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "647": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "648": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "649": {
+        "genName": "Unova",
+        "genNumber": "5",
+        "genRoman": "V"
+    },
+    "650": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "651": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "652": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "653": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "654": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "655": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "656": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "657": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "658": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "659": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "660": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "661": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "662": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "663": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "664": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "665": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "666": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "667": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "668": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "669": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "670": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "671": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "672": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "673": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "674": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "675": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "676": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "677": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "678": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "679": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "680": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "681": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "682": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "683": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "684": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "685": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "686": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "687": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "688": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "689": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "690": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "691": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "692": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "693": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "694": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "695": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "696": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "697": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "698": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "699": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "700": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "701": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "702": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "703": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "704": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "705": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "706": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "707": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "708": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "709": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "710": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "711": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "712": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "713": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "714": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "715": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "716": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "717": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "718": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "719": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "720": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "721": {
+        "genName": "Kalos",
+        "genNumber": "6",
+        "genRoman": "VI"
+    },
+    "722": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "723": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "724": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "725": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "726": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "727": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "728": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "729": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "730": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "731": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "732": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "733": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "734": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "735": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "736": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "737": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "738": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "739": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "740": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "741": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "742": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "743": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "744": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "745": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "746": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "747": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "748": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "749": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "750": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "751": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "752": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "753": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "754": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "755": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "756": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "757": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "758": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "759": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "760": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "761": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "762": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "763": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "764": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "765": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "766": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "767": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "768": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "769": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "770": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "771": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "772": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "773": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "774": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "775": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "776": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "777": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "778": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "779": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "780": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "781": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "782": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "783": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "784": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "785": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "786": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "787": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "788": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "789": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "790": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "791": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "792": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "793": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "794": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "795": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "796": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "797": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "798": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "799": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "800": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "801": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "802": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "803": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "804": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "805": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "806": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "807": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "808": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "809": {
+        "genName": "Alola",
+        "genNumber": "7",
+        "genRoman": "VII"
+    },
+    "810": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "811": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "812": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "813": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "814": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "815": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "816": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "817": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "818": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "819": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "820": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "821": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "822": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "823": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "824": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "825": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "826": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "827": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "828": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "829": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "830": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "831": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "832": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "833": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "834": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "835": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "836": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "837": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "838": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "839": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "840": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "841": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "842": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "843": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "844": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "845": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "846": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "847": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "848": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "849": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "850": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "851": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "852": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "853": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "854": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "855": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "856": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "857": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "858": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "859": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "860": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "861": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "862": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "863": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "864": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "865": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "866": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "867": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "868": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "869": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "870": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "871": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "872": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "873": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "874": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "875": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "876": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "877": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "878": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "879": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "880": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "881": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "882": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "883": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "884": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "885": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "886": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "887": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "888": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "889": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "890": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "891": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "892": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "893": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "894": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "895": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "896": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "897": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "898": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    }
+  }
+}
