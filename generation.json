@@ -346,15 +346,25 @@
         "genNumber": "1",
         "genRoman": "I"
     },
-    "58": {
+    "58_0": {
         "genName": "Kanto",
         "genNumber": "1",
         "genRoman": "I"
     },
-    "59": {
+    "58_2792": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "59_0": {
         "genName": "Kanto",
         "genNumber": "1",
         "genRoman": "I"
+    },
+    "59_2793": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
     },
     "60": {
         "genName": "Kanto",
@@ -606,15 +616,25 @@
         "genNumber": "1",
         "genRoman": "I"
     },
-    "100": {
+    "100_1047": {
         "genName": "Kanto",
         "genNumber": "1",
         "genRoman": "I"
     },
-    "101": {
+    "100_2728": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "101_1050": {
         "genName": "Kanto",
         "genNumber": "1",
         "genRoman": "I"
+    },
+    "101_2735": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
     },
     "102": {
         "genName": "Kanto",
@@ -766,10 +786,25 @@
         "genNumber": "1",
         "genRoman": "I"
     },
-    "128": {
+    "128_0": {
         "genName": "Kanto",
         "genNumber": "1",
         "genRoman": "I"
+    },
+    "128_3006": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "128_3007": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "128_3008": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
     },
     "129": {
         "genName": "Kanto",
@@ -846,20 +881,35 @@
         "genNumber": "1",
         "genRoman": "I"
     },
-    "144": {
+    "144_0": {
         "genName": "Kanto",
         "genNumber": "1",
         "genRoman": "I"
     },
-    "145": {
+    "144_2801": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "145_0": {
         "genName": "Kanto",
         "genNumber": "1",
         "genRoman": "I"
     },
-    "146": {
+    "145_2800": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "146_0": {
         "genName": "Kanto",
         "genNumber": "1",
         "genRoman": "I"
+    },
+    "146_2799": {
+        "genName": "Galar",
+        "genNumber": "8",
+        "genRoman": "VIII"
     },
     "147": {
         "genName": "Kanto",
@@ -911,10 +961,15 @@
         "genNumber": "2",
         "genRoman": "II"
     },
-    "157": {
+    "157_0": {
         "genName": "Johto",
         "genNumber": "2",
         "genRoman": "II"
+    },
+    "157_2786": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
     },
     "158": {
         "genName": "Johto",
@@ -1096,10 +1151,15 @@
         "genNumber": "2",
         "genRoman": "II"
     },
-    "194": {
+    "194_0": {
         "genName": "Johto",
         "genNumber": "2",
         "genRoman": "II"
+    },
+    "194_3009": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
     },
     "195": {
         "genName": "Johto",
@@ -1186,10 +1246,15 @@
         "genNumber": "2",
         "genRoman": "II"
     },
-    "211": {
+    "211_0": {
         "genName": "Johto",
         "genNumber": "2",
         "genRoman": "II"
+    },
+    "211_2788": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
     },
     "212": {
         "genName": "Johto",
@@ -1206,10 +1271,15 @@
         "genNumber": "2",
         "genRoman": "II"
     },
-    "215": {
+    "215_0": {
         "genName": "Johto",
         "genNumber": "2",
         "genRoman": "II"
+    },
+    "215_2794": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
     },
     "216": {
         "genName": "Johto",
@@ -2661,10 +2731,15 @@
         "genNumber": "5",
         "genRoman": "V"
     },
-    "503": {
+    "503_0": {
         "genName": "Unova",
         "genNumber": "5",
         "genRoman": "V"
+    },
+    "503_2787": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
     },
     "504": {
         "genName": "Unova",
@@ -2891,10 +2966,15 @@
         "genNumber": "5",
         "genRoman": "V"
     },
-    "549": {
+    "549_0": {
         "genName": "Unova",
         "genNumber": "5",
         "genRoman": "V"
+    },
+    "549_2789": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
     },
     "550": {
         "genName": "Unova",
@@ -3021,15 +3101,25 @@
         "genNumber": "5",
         "genRoman": "V"
     },
-    "570": {
+    "570_0": {
         "genName": "Unova",
         "genNumber": "5",
         "genRoman": "V"
     },
-    "571": {
+    "570_2796": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "571_0": {
         "genName": "Unova",
         "genNumber": "5",
         "genRoman": "V"
+    },
+    "571_2797": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
     },
     "572": {
         "genName": "Unova",
@@ -3316,10 +3406,15 @@
         "genNumber": "5",
         "genRoman": "V"
     },
-    "628": {
+    "628_0": {
         "genName": "Unova",
         "genNumber": "5",
         "genRoman": "V"
+    },
+    "628_2798": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
     },
     "629": {
         "genName": "Unova",
@@ -3701,15 +3796,25 @@
         "genNumber": "6",
         "genRoman": "VI"
     },
-    "705": {
+    "705_0": {
         "genName": "Kalos",
         "genNumber": "6",
         "genRoman": "VI"
     },
-    "706": {
+    "705_2790": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "706_0": {
         "genName": "Kalos",
         "genNumber": "6",
         "genRoman": "VI"
+    },
+    "706_2791": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
     },
     "707": {
         "genName": "Kalos",
@@ -3741,10 +3846,15 @@
         "genNumber": "6",
         "genRoman": "VI"
     },
-    "713": {
+    "713_0": {
         "genName": "Kalos",
         "genNumber": "6",
         "genRoman": "VI"
+    },
+    "713_2795": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
     },
     "714": {
         "genName": "Kalos",
@@ -3796,10 +3906,15 @@
         "genNumber": "7",
         "genRoman": "VII"
     },
-    "724": {
+    "724_0": {
         "genName": "Alola",
         "genNumber": "7",
         "genRoman": "VII"
+    },
+    "724_2785": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
     },
     "725": {
         "genName": "Alola",
@@ -4670,6 +4785,601 @@
         "genName": "Galar",
         "genNumber": "8",
         "genRoman": "VIII"
+    },
+    "899": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "900": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "901": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "902": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "903": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "904": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "905": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "906": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "907": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "908": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "909": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "910": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "911": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "912": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "913": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "914": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "915": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "916": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "917": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "918": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "919": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "920": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "921": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "922": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "923": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "924": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "925": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "926": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "927": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "928": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "929": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "930": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "931": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "932": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "933": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "934": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "935": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "936": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "937": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "938": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "939": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "940": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "941": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "942": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "943": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "944": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "945": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "946": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "947": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "948": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "949": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "950": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "951": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "952": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "953": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "954": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "955": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "956": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "957": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "958": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "959": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "960": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "961": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "962": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "963": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "964": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "965": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "966": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "967": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "968": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "969": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "970": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "971": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "972": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "973": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "974": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "975": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "976": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "977": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "978": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "979": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "980": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "981": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "982": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "983": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "984": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "985": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "986": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "987": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "988": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "989": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "990": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "991": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "992": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "993": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "994": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "995": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "996": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "997": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "998": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "999": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1000": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1001": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1002": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1003": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1004": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1005": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1006": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1007": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1008": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1009": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1010": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1011": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1012": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1013": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1014": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1015": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1016": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
+    },
+    "1017": {
+        "genName": "Paldea",
+        "genNumber": "9",
+        "genRoman": "IX"
     }
   }
 }
