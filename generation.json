@@ -346,7 +346,7 @@
         "genNumber": "1",
         "genRoman": "I"
     },
-    "58_0": {
+    "58_280": {
         "genName": "Kanto",
         "genNumber": "1",
         "genRoman": "I"
@@ -356,7 +356,7 @@
         "genNumber": "8",
         "genRoman": "VIII"
     },
-    "59_0": {
+    "59_283": {
         "genName": "Kanto",
         "genNumber": "1",
         "genRoman": "I"
@@ -786,7 +786,7 @@
         "genNumber": "1",
         "genRoman": "I"
     },
-    "128_0": {
+    "128_1086": {
         "genName": "Kanto",
         "genNumber": "1",
         "genRoman": "I"
@@ -881,7 +881,7 @@
         "genNumber": "1",
         "genRoman": "I"
     },
-    "144_0": {
+    "144_716": {
         "genName": "Kanto",
         "genNumber": "1",
         "genRoman": "I"
@@ -891,7 +891,7 @@
         "genNumber": "8",
         "genRoman": "VIII"
     },
-    "145_0": {
+    "145_773": {
         "genName": "Kanto",
         "genNumber": "1",
         "genRoman": "I"
@@ -901,7 +901,7 @@
         "genNumber": "8",
         "genRoman": "VIII"
     },
-    "146_0": {
+    "146_836": {
         "genName": "Kanto",
         "genNumber": "1",
         "genRoman": "I"
@@ -961,7 +961,7 @@
         "genNumber": "2",
         "genRoman": "II"
     },
-    "157_0": {
+    "157_1133": {
         "genName": "Johto",
         "genNumber": "2",
         "genRoman": "II"
@@ -1151,7 +1151,7 @@
         "genNumber": "2",
         "genRoman": "II"
     },
-    "194_0": {
+    "194_1226": {
         "genName": "Johto",
         "genNumber": "2",
         "genRoman": "II"
@@ -1246,7 +1246,7 @@
         "genNumber": "2",
         "genRoman": "II"
     },
-    "211_0": {
+    "211_1259": {
         "genName": "Johto",
         "genNumber": "2",
         "genRoman": "II"
@@ -1271,7 +1271,7 @@
         "genNumber": "2",
         "genRoman": "II"
     },
-    "215_0": {
+    "215_797": {
         "genName": "Johto",
         "genNumber": "2",
         "genRoman": "II"
@@ -2631,15 +2631,25 @@
         "genNumber": "4",
         "genRoman": "IV"
     },
-    "483": {
+    "483_1856": {
         "genName": "Sinnoh",
         "genNumber": "4",
         "genRoman": "IV"
     },
-    "484": {
+    "483_0": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
+    },
+    "484_1859": {
         "genName": "Sinnoh",
         "genNumber": "4",
         "genRoman": "IV"
+    },
+    "484_0": {
+        "genName": "Hisui",
+        "genNumber": "8",
+        "genRoman": "VIII"
     },
     "485": {
         "genName": "Sinnoh",
@@ -2731,7 +2741,7 @@
         "genNumber": "5",
         "genRoman": "V"
     },
-    "503_0": {
+    "503_1913": {
         "genName": "Unova",
         "genNumber": "5",
         "genRoman": "V"
@@ -2966,7 +2976,7 @@
         "genNumber": "5",
         "genRoman": "V"
     },
-    "549_0": {
+    "549_2051": {
         "genName": "Unova",
         "genNumber": "5",
         "genRoman": "V"
@@ -3101,7 +3111,7 @@
         "genNumber": "5",
         "genRoman": "V"
     },
-    "570_0": {
+    "570_2108": {
         "genName": "Unova",
         "genNumber": "5",
         "genRoman": "V"
@@ -3111,7 +3121,7 @@
         "genNumber": "8",
         "genRoman": "VIII"
     },
-    "571_0": {
+    "571_2111": {
         "genName": "Unova",
         "genNumber": "5",
         "genRoman": "V"
@@ -3406,7 +3416,7 @@
         "genNumber": "5",
         "genRoman": "V"
     },
-    "628_0": {
+    "628_2276": {
         "genName": "Unova",
         "genNumber": "5",
         "genRoman": "V"
@@ -3796,7 +3806,7 @@
         "genNumber": "6",
         "genRoman": "VI"
     },
-    "705_0": {
+    "705_2810": {
         "genName": "Kalos",
         "genNumber": "6",
         "genRoman": "VI"
@@ -3806,7 +3816,7 @@
         "genNumber": "8",
         "genRoman": "VIII"
     },
-    "706_0": {
+    "706_2811": {
         "genName": "Kalos",
         "genNumber": "6",
         "genRoman": "VI"
@@ -3846,7 +3856,7 @@
         "genNumber": "6",
         "genRoman": "VI"
     },
-    "713_0": {
+    "713_2812": {
         "genName": "Kalos",
         "genNumber": "6",
         "genRoman": "VI"
@@ -3906,7 +3916,7 @@
         "genNumber": "7",
         "genRoman": "VII"
     },
-    "724_0": {
+    "724_2809": {
         "genName": "Alola",
         "genNumber": "7",
         "genRoman": "VII"
